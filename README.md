@@ -1,9 +1,8 @@
 
 # Coffee Manager - Go, Chi, PostgreSQL
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
 A sweet and simple CRUD API for coffee lovers like you and me.   
-## Badges
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
 
 ## Run Locally
