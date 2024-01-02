@@ -9,11 +9,11 @@ var db *sql.DB
 const dbTimeout = time.Second * 3
 
 type Models struct {
-	Coffee Coffee
-	JsonResponse JsonResponse
+    Coffee Coffee
+    JsonResponse JsonResponse
 }
 
-func New(dbPool *sql.DB) Models{
-	db = dbPool
-	return Models{}
+func New(dbPool *sql.DB) Models {
+    db = dbPool
+    return Models{}
 }
