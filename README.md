@@ -6,6 +6,29 @@ A sweet and simple CRUD API for coffee lovers like you and me.
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
 
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/abhinavthapa1998/coffee-manager.git
+```
+Start the server
+```bash
+  make run
+```
+Stop the server
+```bash
+  make stop 
+```
+Build the binary
+```bash
+  make build
+```
+
+
+
+
 ## API Reference
 
 #### Get All Coffees
